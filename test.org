@@ -1,0 +1,17 @@
++ Plots for CD44
+  + [ ] Cartoons [0%]
+    + [ ] Learn Pymol
+    + [ ] Illustration for cb effects
+    + [ ] Open & Closed CD44
+    + [ ] Explanation
+  + [-] Plots [42%]
+    + [ ] Exponential dwelling time
+    + [X] Lifetime
+    + [X] Chi - time
+    + [X] E_bind distribution
+    + [ ] FES
+      + [ ] Figure out Q first...
+    + [ ] FES 1D for Q>0.5 and Q<0.5
+    + [ ] Probability for C to be unfolded first
+      + [ ] Define unfolded C
+      + [ ] 
